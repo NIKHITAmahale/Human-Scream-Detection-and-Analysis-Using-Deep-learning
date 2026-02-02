@@ -1,0 +1,8 @@
+{
+  "total_samples": 840,
+  "scream_samples": 480,
+  "non_scream_samples": 360,
+  "feature_dim": 41,
+  "train_samples": 672,
+  "test_samples": 168
+}
